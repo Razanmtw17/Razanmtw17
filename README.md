@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Razanmtw17
 - 👀 I’m interested in web design and application programming
 - 🌱 I’m currently learning swift , C# ,html and games programming using unity
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Twitter @razan_m_tw
 
 <!---
